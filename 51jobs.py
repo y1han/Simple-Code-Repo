@@ -126,21 +126,21 @@ if __name__=='__main__':
 		%2B 空白
 		url_all = 'https://search.51job.com/list/000000,000000,0000,00,9,99,python,2,1.html?lang=c&stype=1&postchannel=0000&workyear=99&cotype=99&degreefrom=99&jobterm=99&companysize=99&lonlat=0%2C0&radius=-1&ord_field=0&confirmdate=9&fromType=6&dibiaoid=0&address=&line=&specialarea=00&from='
 		
-		workyear =	99  所有
-					01  无经验
+		workyear 	=	99  所有
+						01  无经验
 
-		shanghai_or_not =	020000 上海
-							000000 全国
+		shanghai_or_not 	=	020000 上海
+								000000 全国
 
-		postdate = 	9 所有
-					0 24小时内
-					1 近三天
-					2 近一周
-					3 近一个月
+		postdate 	=	9 所有
+						0 24小时内
+						1 近三天
+						2 近一周
+						3 近一个月
 
-		industry =  03  金融/投资/证券
-					01  计算机软件
-					00	无限制
+		industry 	=	03  金融/投资/证券
+						01  计算机软件
+						00	无限制
 
 	'''
 	keyword = '%2B'
