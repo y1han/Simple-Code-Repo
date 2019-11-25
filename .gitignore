@@ -129,3 +129,4 @@ dmypy.json
 
 #mac
 .DS_Store
+credential.txt
